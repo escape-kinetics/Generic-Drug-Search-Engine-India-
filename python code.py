@@ -57,9 +57,7 @@ def search_csv(name, file_path="A_Z_medicines_dataset_of_India.csv"): #searching
                name.lower() in row['short_composition2'].lower():
                 result_dict = row
                 
-                if result_dict.get('Is_discontinued') == 'TRUE':
-                    messagebox.showinfo("Notice", "This medicine is discontinued.")
-                break
+              
         if not result_dict:
         
             return "Not found"
