@@ -10,7 +10,7 @@ Generic Drug search engine is an application built on python which provides the 
 ![image](https://github.com/escape-kinetics/Generic-Drug-Search-Engine-India-/assets/97358005/dd334c93-c4bb-4a76-8321-0ca68407f4f4)
 
 Key Modules used:
-      Pandas
-      Webbbrowser
-      Requests
+      Pandas;
+      Webbbrowser;
+      Requests;
       CSV
