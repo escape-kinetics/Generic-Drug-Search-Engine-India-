@@ -13,4 +13,5 @@ Key Modules used:
       Pandas;
       Webbbrowser;
       Requests;
-      CSV
+      CSV;
+      Tkinter
