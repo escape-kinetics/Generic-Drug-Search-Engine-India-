@@ -1,6 +1,6 @@
 This project was made as a sem 1 CSE mini project.
 
-Generic Drug search engine is an application built on python which provides the short composition of various drugs along with other info such as price and manufacturer.
+Generic Drug search engine is an application built on python which provides the short composition of various medicines sold in India along with other info such as price and manufacturer.
 
 ![image](https://github.com/escape-kinetics/Generic-Drug-Search-Engine-India-/assets/97358005/3c5fc335-11e6-4e03-9af0-66f18452aec5)
 
@@ -9,9 +9,18 @@ Generic Drug search engine is an application built on python which provides the 
 
 ![image](https://github.com/escape-kinetics/Generic-Drug-Search-Engine-India-/assets/97358005/dd334c93-c4bb-4a76-8321-0ca68407f4f4)
 
-Key Modules used:
-      Pandas;
-      Webbbrowser;
-      Requests;
-      CSV;
-      Tkinter
+Key Modules used :-
+
+Pandas
+      
+Webbbrowser
+      
+Requests
+      
+CSV
+      
+Tkinter
+
+CSV file:
+
+https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
